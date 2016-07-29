@@ -1,6 +1,6 @@
-# Home Post Widget
+# User Star Rating
 
-A Wordpress plugin that extends buddpress and adds star rating to students.
+A Wordpress plugin that make a widget for viewing latest posts.
 Based on WordPress plugin boilerplate by [Nabeel Molham]
 
 **Free Software, Hell Yeah!**
